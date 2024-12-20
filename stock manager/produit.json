@@ -1,0 +1,38 @@
+[
+    {
+        "name": "YYYYYYYYYYYYY",
+        "description": "YYYYYYYYYYYYYYY",
+        "price": 0,
+        "quantity": 0
+    },
+    {
+        "name": "ZZZZ",
+        "description": "AAAAA",
+        "price": 56,
+        "quantity": 34
+    },
+    {
+        "name": "SSSSS",
+        "description": "HHHHH",
+        "price": 4,
+        "quantity": 5
+    },
+    {
+        "name": "SSSS",
+        "description": "DDD",
+        "price": null,
+        "quantity": null
+    },
+    {
+        "name": "DDDD",
+        "description": "SSSS",
+        "price": 4,
+        "quantity": 23
+    },
+    {
+        "name": "HHHHH",
+        "description": "KKKKK",
+        "price": null,
+        "quantity": null
+    }
+]
